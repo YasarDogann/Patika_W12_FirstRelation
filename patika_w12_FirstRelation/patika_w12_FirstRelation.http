@@ -1,0 +1,6 @@
+@patika_w12_FirstRelation_HostAddress = http://localhost:5164
+
+GET {{patika_w12_FirstRelation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

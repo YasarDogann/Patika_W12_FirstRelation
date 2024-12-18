@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\patika_w12_FirstRelation.props" />
+</Project>
